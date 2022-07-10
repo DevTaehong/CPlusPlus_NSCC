@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/taehong/CLionProjects/Assignment3/Rational.h
+
+/Users/taehong/CLionProjects/Assignment3/main.cpp
+iostream
+-
+iomanip
+-
+string
+-
+sstream
+-
+cctype
+-
+charconv
+-
+Rational.h
+/Users/taehong/CLionProjects/Assignment3/Rational.h
+
